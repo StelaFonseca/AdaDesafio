@@ -1,16 +1,20 @@
-public class Diretor extends Pessoa {
-    public Diretor(String nome, String dataNascimento) {
+package org.desafioada.model;
+
+public class Ator extends Pessoa {
+
+    public Ator(String nome, String dataNascimento ) {
         super(nome, dataNascimento);
     }
 
+
     @Override
     public boolean ehDiretor() {
-        return true;
+        return false;
     }
 
     @Override
     public String toString() {
-        return "Diretor{" +
+        return "Ator{" +
                 "nome='" + nome + '\'' +
                 '}';
     }

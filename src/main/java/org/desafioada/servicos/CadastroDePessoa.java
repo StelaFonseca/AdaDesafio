@@ -1,5 +1,5 @@
 package org.desafioada.servicos;
-import org.desafioada.Ator;
+import org.desafioada.model.Ator;
 import org.desafioada.Diretor;
 import org.desafioada.Pessoa;
 import java.util.ArrayList;
