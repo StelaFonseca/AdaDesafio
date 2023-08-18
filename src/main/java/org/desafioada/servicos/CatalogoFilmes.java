@@ -1,7 +1,7 @@
 package org.desafioada.servicos;
-import org.desafioada.model.Ator;
+import org.desafioada.Ator;
 import org.desafioada.Diretor;
-import org.desafioada.model.Filme;
+import org.desafioada.Filme;
 import org.desafioada.Pessoa;
 import java.util.ArrayList;
 import java.util.List;
