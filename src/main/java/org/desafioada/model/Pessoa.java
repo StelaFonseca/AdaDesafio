@@ -1,4 +1,4 @@
-package org.desafioada;
+package org.desafioada.model;
 
 public abstract class Pessoa {
 

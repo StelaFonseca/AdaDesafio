@@ -1,4 +1,4 @@
-package org.desafioada;
+package org.desafioada.model;
 import java.util.ArrayList;
 import java.util.List;
 

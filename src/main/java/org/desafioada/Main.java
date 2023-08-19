@@ -1,5 +1,6 @@
 package org.desafioada;
 
+import org.desafioada.model.Pessoa;
 import org.desafioada.servicos.CadastroDePessoa;
 import org.desafioada.servicos.CatalogoFilmes;
 import org.desafioada.servicos.Menu;
